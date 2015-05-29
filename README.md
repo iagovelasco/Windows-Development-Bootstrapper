@@ -37,4 +37,5 @@ The PSGet modules included.
 - [posh-git](https://github.com/dahlbyk/posh-git/)
 - [PSReadline](https://github.com/lzybkr/PSReadLine)
 
+Iago eh nois que voa
 More updates coming soon...
